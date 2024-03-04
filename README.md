@@ -20,3 +20,6 @@ Data Source:
 
 Map Creation: 
 This map was created by developing a base 3D layer of the city of Louisville, and then applying the gun violence layer overtop. It is fairly simple but some codes had to be edited in Visual Studio Code. 
+
+
+<img width="1470" alt="Screenshot 2024-03-03 at 11 41 27 PM" src="https://github.com/mgby222/Map671---Final/assets/143336521/dbf45fba-b2b9-4376-ba82-3fe739b528ec">
